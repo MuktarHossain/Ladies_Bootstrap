@@ -1,0 +1,42 @@
+/*Ladies-Bootstrap Template
+  Designed By Muktar Hossain*/
+
+.header_logo{
+    padding: 40px;
+}
+
+.panel{
+    padding: 20px;
+}
+
+.panel-body{
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #333333;
+}
+
+.media-right{
+    padding-right: 10px;
+}
+
+.social{
+    background-color: #E1E1E1;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.search{
+    padding: 20px;
+}
+
+.search li{
+    padding: 10px;
+    list-style: none;
+}
+.search li a{
+    text-decoration: none;
+    color: #6D6D6A;
+}
+
